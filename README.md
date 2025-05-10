@@ -4,7 +4,7 @@
 
 🌱 Currently learning: Distributed Systems Design & Cloud Native Architectures  
 💬 Ask me about: Java, Spring Boot, REST APIs, Kafka, SQL, System Design  
-📫 Reach me: [LinkedIn][(https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/kumar-gaurav-548531113/)) | [Email](kgauravis016@gmail.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kumar-gaurav-548531113/)) | [Email](kgauravis016@gmail.com)
 
 ---
 
